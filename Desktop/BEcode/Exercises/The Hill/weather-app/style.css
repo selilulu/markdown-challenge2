@@ -1,0 +1,25 @@
+body{
+    /* background-image: url(15987wide.png);
+    background-repeat: no-repeat;
+    background-blend-mode:darken ;
+    background-color: rgba(235, 238, 80, 0.651);
+    background-size: 100%;
+} */
+
+
+form{
+    text-align: center;
+    height: 100vh;
+    line-height: 100vh;
+}
+
+
+
+input ,label:hover{
+
+
+    border-radius: 16px;
+    color:blue;
+
+    background-color:wheat;
+}
