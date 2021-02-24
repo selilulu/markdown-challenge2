@@ -1,4 +1,7 @@
+//this comes automatically after tsc command
 "use strict";
+
+
 (function () {
     document.getElementById('guess-form').addEventListener("submit", compareUserGuess);
     function compareUserGuess(event) {
